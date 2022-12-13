@@ -52,7 +52,7 @@ cards.forEach(card =>{
     card.addEventListener('click',flipCard);
 });
 cards.forEach(card =>{
-    card.addEventListener('touchstart ',flipCard);
+    card.addEventListener('touchstart',flipCard);
 });
 
 function matchCards(img1,img2,img3){ 
