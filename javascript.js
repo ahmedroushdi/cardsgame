@@ -29,15 +29,6 @@ function shuffle(array){
     return array;
 };
 
-// function reshuffle(array1,arrayindex){
-//     for(var i = 0; i < array1.length; i++){
-//         for(var j = i; j < arrayindex.length + 1; j++){
-//             array1[i] = arrayindex[j];
-//             break 
-//         }
-//     }
-// }
-
 function flipCard(event){
     clickedCard = event.composedPath()[1];
    
@@ -136,7 +127,6 @@ function matchCards(img1,img2,img3){
             cardOne = undefined;
             cardTwo = undefined;
             cardThree = undefined;
-            clickedCard = cardOne;
             flipCard;
         },2050);
         
