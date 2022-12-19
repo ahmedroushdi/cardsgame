@@ -31,12 +31,12 @@ header p {
     -webkit-perspective: 1000px;
     position:relative;
     max-height: fit-content;
-    transition: all ease 1.2s;
+    transition: all ease 0.8s;
 }
 
 .card-toFlip {
     transform-style: preserve-3d;
-    transition: all 1.2s ease-in-out;
+    transition: all 0.8s ease-in-out;
     text-align: center;
     height:100%;
     width: 100%;
