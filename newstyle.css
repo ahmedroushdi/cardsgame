@@ -210,9 +210,9 @@ header p {
         top: 50%;
     }
     #startGame {
-       font-size:5vw;
+        font-size:5vw;
         padding: 10px 15px;
-        left: 44%;
+        left: 35%;
         top: 50%;
     }
     .card-toFlip.is-flipped.vibration {
@@ -262,6 +262,7 @@ header p {
     }
     #startGame {
         top: 50%;
+        left: 35%;
         font-size:5vw;
         padding: 10px 15px;
         margin:auto 0;
