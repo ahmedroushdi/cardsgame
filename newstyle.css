@@ -210,7 +210,8 @@ header p {
         top: 50%;
     }
     #startGame {
-        padding: 10px 14px;
+       font-size:4vw;
+        padding: 10px 15px;
         left: 44%;
         top: 50%;
     }
