@@ -261,6 +261,8 @@ header p {
     }
     #startGame {
         top: 50%;
+        font-size:4vw;
+        padding: 10px 15px;
         margin:auto 0;
     }
     .card-toFlip.is-flipped.vibration {
